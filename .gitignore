@@ -1,0 +1,19 @@
+# WorkBuddy 工作数据
+.workbuddy/
+
+# Node.js
+node_modules
+
+# 系统文件
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# 编辑器/IDE
+.vscode/
+.idea/
+*.swp
+
+# 日志与临时文件
+*.log
+*.tmp
